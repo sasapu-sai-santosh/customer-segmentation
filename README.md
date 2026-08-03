@@ -39,20 +39,6 @@ ecommerce_orders_merged_final.csv
 
 This order-level dataset includes customer location, order month, product revenue, shipping charges, total order value, product category, seller-related metrics, payment method, and payment quality checks.
 
-## SQL Analysis
-
-Key SQL analysis areas:
-
-* KPI summary
-* Monthly order value trend
-* Product category performance
-* Customer state performance
-* RFM-based customer segmentation
-* Revenue by customer segment
-* Seller order value analysis
-* Seller shipping-to-price ratio ranking
-* Payment method summary
-* Data validation checks
 
 ## Dashboard
 
